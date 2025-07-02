@@ -17,9 +17,6 @@ ApexPlanet-4 is a responsive, interactive web application designed to showcase a
 - **CSS3** – for layout, animations, and responsiveness  
 - **JavaScript** – for interactivity and DOM manipulation  
 
-## 📸 Screenshots
-
-> *(Include screenshots here if available)*
 
 ## 📁 Project Structure
 
